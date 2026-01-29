@@ -1,0 +1,12 @@
+.out
+.vscode
+
+proposal.aux
+proposal.log
+proposal.bbl
+proposal.blg
+proposal.bcf
+proposal.run.xml
+proposal.fdb_latexmk
+proposal.fls
+proposal.synctex.gz
