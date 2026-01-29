@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.11.26)  29 JAN 2026 11:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.11.26)  29 JAN 2026 12:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -323,10 +323,44 @@ Package hyperref Info: Link coloring OFF on input line 19.
 
 [1
 
-{C:/Users/edunv/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (includes/1-background.tex) (includes/2-aim.tex) (includes/3-problem-formulation.tex) (includes/4-limitations.tex) (includes/5-methodology.tex) (includes/6-risk-analysis.tex) (includes/7-timeline.tex)
+{C:/Users/edunv/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (includes/1-background.tex
+
+Package natbib Warning: Citation `navet2017' on page 2 undefined on input line 4.
+
+
+Package natbib Warning: Citation `fairley2019' on page 2 undefined on input line 4.
+
+
+Package natbib Warning: Citation `bello2019' on page 2 undefined on input line 7.
+
+
+Package natbib Warning: Citation `navet2017' on page 2 undefined on input line 7.
+
+
+Package natbib Warning: Citation `fairley2019' on page 2 undefined on input line 7.
+
+
+Package natbib Warning: Citation `nunes2023' on page 2 undefined on input line 7.
+
+
+Package natbib Warning: Citation `jimenez2020' on page 2 undefined on input line 7.
+
+
+Package natbib Warning: Citation `azar2022' on page 2 undefined on input line 7.
+
+
+Package natbib Warning: Citation `nunes2023' on page 2 undefined on input line 7.
+
+
+Package natbib Warning: Citation `azar2022' on page 2 undefined on input line 7.
+
+) (includes/2-aim.tex) (includes/3-problem-formulation.tex) (includes/4-limitations.tex) (includes/5-methodology.tex) (includes/6-risk-analysis.tex) (includes/7-timeline.tex)
 
 [2]
 No file report.bbl.
+
+Package natbib Warning: There were undefined citations.
+
 (report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
@@ -336,13 +370,13 @@ L3 programming layer <2024-12-25>
 Here is how much of TeX's memory you used:
  11739 strings out of 473536
  194489 string characters out of 5714955
- 618475 words of memory out of 5000000
+ 622475 words of memory out of 5000000
  34837 multiletter control sequences out of 15000+600000
  560654 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,558b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,1327b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on report.pdf (2 pages, 62725 bytes).
+Output written on report.pdf (2 pages, 75461 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
