@@ -1,6 +1,6 @@
-PWD c:\Users\edunv\Documents\projects\Emrik\MasterThesisReoprt
+PWD c:\Users\edunv\Documents\projects\Emrik\MasterThesisReport
 INPUT C:\Users\edunv\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\edunv\Documents\projects\Emrik\MasterThesisReoprt\report.tex
+INPUT c:\Users\edunv\Documents\projects\Emrik\MasterThesisReport\report.tex
 OUTPUT report.log
 INPUT C:\Users\edunv\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\edunv\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -122,6 +122,7 @@ INPUT .\includes\1-background.tex
 INPUT includes\1-background.tex
 INPUT .\includes\1-background.tex
 INPUT includes\1-background.tex
+INPUT C:\Users\edunv\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT .\includes\2-aim.tex
 INPUT includes\2-aim.tex
 INPUT .\includes\2-aim.tex
@@ -147,6 +148,8 @@ INPUT includes\7-timeline.tex
 INPUT .\includes\7-timeline.tex
 INPUT includes\7-timeline.tex
 INPUT report.aux
+INPUT C:\Users\edunv\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\edunv\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\edunv\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\edunv\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\edunv\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb

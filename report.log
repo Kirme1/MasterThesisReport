@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.11.26)  29 JAN 2026 12:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.11.26)  1 FEB 2026 07:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/edunv/Documents/projects/Emrik/MasterThesisReoprt/report.tex
-(c:/Users/edunv/Documents/projects/Emrik/MasterThesisReoprt/report.tex
+**c:/Users/edunv/Documents/projects/Emrik/MasterThesisReport/report.tex
+(c:/Users/edunv/Documents/projects/Emrik/MasterThesisReport/report.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (C:\Users\edunv\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -354,9 +354,62 @@ Package natbib Warning: Citation `nunes2023' on page 2 undefined on input line 7
 
 Package natbib Warning: Citation `azar2022' on page 2 undefined on input line 7.
 
-) (includes/2-aim.tex) (includes/3-problem-formulation.tex) (includes/4-limitations.tex) (includes/5-methodology.tex) (includes/6-risk-analysis.tex) (includes/7-timeline.tex)
+
+Package natbib Warning: Citation `shannon1948' on page 2 undefined on input line 10.
+
+
+Package natbib Warning: Citation `sayood2018' on page 2 undefined on input line 10.
+
+
+Package natbib Warning: Citation `ma2019' on page 2 undefined on input line 12.
+
+
+Package natbib Warning: Citation `johnsson2025thesis' on page 2 undefined on input line 12.
+
+
+Package natbib Warning: Citation `johnsson2025thesis' on page 2 undefined on input line 12.
+
+
+Package natbib Warning: Citation `cuza2024' on page 2 undefined on input line 14.
+
+
+Package natbib Warning: Citation `zhang2023adapint' on page 2 undefined on input line 19.
+
+
+Package natbib Warning: Citation `yang2022' on page 2 undefined on input line 20.
+
+
+Package natbib Warning: Citation `yang2022' on page 2 undefined on input line 20.
+
+
+Package natbib Warning: Citation `löhdefink2019' on page 2 undefined on input line 20.
+
+
+Package natbib Warning: Citation `zheng2023' on page 2 undefined on input line 20.
+
+
+Package natbib Warning: Citation `liu2024deepdictdeeplearningbased' on page 2 undefined on input line 20.
+
+
 
 [2]
+
+Package natbib Warning: Citation `yang2022' on page 3 undefined on input line 21.
+
+
+Package natbib Warning: Citation `azar2022robust' on page 3 undefined on input line 21.
+
+
+Package natbib Warning: Citation `sun2025' on page 3 undefined on input line 21.
+
+) (includes/2-aim.tex
+Overfull \hbox (3.99574pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/n/10 The aim of this project will be to in-ves-ti-gate the use of neu-ral com-pres-sion tech-niques, specif-i-cally tokenization-
+ []
+
+) (includes/3-problem-formulation.tex) (includes/4-limitations.tex) (includes/5-methodology.tex) (includes/6-risk-analysis.tex) (includes/7-timeline.tex)
+
+[3]
 No file report.bbl.
 
 Package natbib Warning: There were undefined citations.
@@ -368,17 +421,17 @@ L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 11739 strings out of 473536
- 194489 string characters out of 5714955
- 622475 words of memory out of 5000000
- 34837 multiletter control sequences out of 15000+600000
- 560654 words of font info for 42 fonts, out of 8000000 for 9000
+ 11745 strings out of 473536
+ 194589 string characters out of 5714955
+ 628475 words of memory out of 5000000
+ 34841 multiletter control sequences out of 15000+600000
+ 560989 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,1327b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on report.pdf (2 pages, 75461 bytes).
+ 75i,5n,79p,1327b,492s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\edunv\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/edunv/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on report.pdf (3 pages, 84245 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 10 named destinations out of 1000 (max. 500000)
+ 75 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
