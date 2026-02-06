@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Jeong et~al.(2024)Jeong, Lee, Lee, and Kim]{JeongLLK24X-CANIDS}
+Seonghoon Jeong, Sangho Lee, Hwejae Lee, and Huy~Kang Kim.
+\newblock X-canids: Signal-aware explainable intrusion detection system for controller area network-based in-vehicle network.
+\newblock \emph{IEEE Transactions on Vehicular Technology}, 73\penalty0 (3):\penalty0 3230--3246, 2024.
+\newblock \doi{10.1109/TVT.2023.3327275}.
+
+\end{thebibliography}
