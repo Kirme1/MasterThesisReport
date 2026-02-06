@@ -1,0 +1,162 @@
+\begin{thebibliography}{20}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Azar et~al.(2020)Azar, Makhoul, Couturier, and
+  Demerjian]{azar2022robust}
+Joseph Azar, Abdallah Makhoul, Raphaël Couturier, and Jacques Demerjian.
+\newblock Robust iot time series classification with data compression and deep
+  learning.
+\newblock \emph{Neurocomputing}, 398, 02 2020.
+\newblock \doi{10.1016/j.neucom.2020.02.097}.
+
+\bibitem[Azar et~al.(2022)Azar, Hajiakhondi-Meybodi, and Naderkhani]{azar2022}
+Kamyar Azar, Zohreh Hajiakhondi-Meybodi, and Farnoosh Naderkhani.
+\newblock Semi-supervised clustering-based method for fault diagnosis and
+  prognosis: A case study.
+\newblock \emph{Reliability Engineering \& System Safety}, 222:\penalty0
+  108405, 2022.
+\newblock \doi{10.1016/j.ress.2022.108405}.
+
+\bibitem[Bello et~al.(2019)Bello, Mariani, Mubeen, and Saponara]{bello2019}
+L.~L. Bello, R.~Mariani, S.~Mubeen, and S.~Saponara.
+\newblock Recent advances and trends in on-board embedded and networked
+  automotive systems.
+\newblock \emph{IEEE Transactions on Industrial Informatics}, 15:\penalty0
+  1038--1051, 2019.
+\newblock \doi{10.1109/tii.2018.2879544}.
+
+\bibitem[Fairley(2019)]{fairley2019}
+Richard~E. Fairley.
+\newblock \emph{Automobile Embedded Real‐Time Systems}, pages 377--389.
+\newblock Wiley-IEEE Press, 2019.
+\newblock \doi{10.1002/9781119535041.app2}.
+
+\bibitem[Johnsson(2025)]{johnsson2025thesis}
+Simon Johnsson.
+\newblock Large scale efficient data readout for vehicle fleets.
+\newblock Master's thesis, Chalmers University of Technology, 2025.
+
+\bibitem[Kawawa-Beaudan et~al.(2022)Kawawa-Beaudan, Roggenkemper, and
+  Zakhor]{kawawabeaudan2022}
+Maxime Kawawa-Beaudan, Ryan Roggenkemper, and Avideh Zakhor.
+\newblock Recognition-aware learned image compression.
+\newblock \emph{Electronic Imaging}, 34\penalty0 (14):\penalty0
+  220--1--220–5, January 2022.
+\newblock ISSN 2470-1173.
+\newblock \doi{10.2352/ei.2022.34.14.coimg-220}.
+\newblock URL \url{http://dx.doi.org/10.2352/EI.2022.34.14.COIMG-220}.
+
+\bibitem[Liu et~al.(2024)Liu, Djukic, Kulhandjian, and
+  Kantarci]{liu2024deepdictdeeplearningbased}
+Jinxin Liu, Petar Djukic, Michel Kulhandjian, and Burak Kantarci.
+\newblock Deep dict: Deep learning-based lossy time series compressor for iot
+  data, 2024.
+\newblock URL \url{https://arxiv.org/abs/2401.10396}.
+
+\bibitem[Löhdefink et~al.(2019)Löhdefink, Bär, Schmidt, Hüger, Schlicht,
+  and Fingscheidt]{löhdefink2019}
+Jonas Löhdefink, Andreas Bär, Nico~M. Schmidt, Fabian Hüger, Peter Schlicht,
+  and Tim Fingscheidt.
+\newblock Gan- vs. jpeg2000 image compression for distributed automotive
+  perception: Higher peak snr does not mean better semantic segmentation.
+\newblock \emph{arXiv preprint arXiv:1902.04311}, 2019.
+\newblock \doi{arXiv:1902.04311v1}.
+
+\bibitem[Ma et~al.(2019)Ma, Zhang, Jia, Zhao, Wang, and Wang]{ma2019}
+Siwei Ma, Xinfeng Zhang, Chuanmin Jia, Zhenghui Zhao, Shiqi Wang, and Shanshe
+  Wang.
+\newblock Image and video compression with neural networks: A review.
+\newblock \emph{IEEE Transactions on Circuits and Systems for Video
+  Technology}, 30:\penalty0 1683--1698, 2019.
+\newblock \doi{10.1109/tcsvt.2019.2910119}.
+
+\bibitem[Montero~Jiménez et~al.(2020)Montero~Jiménez, Schwartz, Vingerhoeds,
+  Grabot, and Salaün]{jimenez2020}
+Juan~José Montero~Jiménez, Sébastien Schwartz, R.~Vingerhoeds, B.~Grabot,
+  and M.~Salaün.
+\newblock Towards multi-model approaches to predictive maintenance: A
+  systematic literature survey on diagnostics and prognostics.
+\newblock \emph{Journal of Manufacturing Systems}, 2020.
+\newblock \doi{10.1016/j.jmsy.2020.07.008}.
+
+\bibitem[Muniz-Cuza et~al.(2024)Muniz-Cuza, Jensen, Brusokas, Ho, and
+  Pedersen]{cuza2024}
+Carlos~Enrique Muniz-Cuza, S{\o}ren~Kejser Jensen, Jonas Brusokas, Nguyen Ho,
+  and Torben~Bach Pedersen.
+\newblock Evaluating the impact of error-bounded lossy compression on time
+  series forecasting.
+\newblock In \emph{Advances in Database Technology - EDBT}, number~3 in
+  Advances in Database Technology - EDBT, pages 650--663. OpenProceedings,
+  March 2024.
+\newblock \doi{10.48786/edbt.2024.56}.
+
+\bibitem[Navet and Simonot-Lion(2017)]{navet2017}
+N.~Navet and F.~Simonot-Lion.
+\newblock \emph{Automotive Embedded Systems Handbook}.
+\newblock CRC Press, 2017.
+\newblock \doi{10.1201/9780849380273}.
+
+\bibitem[Nunes et~al.(2023)Nunes, Santos, and Rocha]{nunes2023}
+P.~Nunes, J.~Santos, and E.~Rocha.
+\newblock Challenges in predictive maintenance -- a review.
+\newblock \emph{CIRP Journal of Manufacturing Science and Technology}, 2023.
+\newblock \doi{10.1016/j.cirpj.2022.11.004}.
+
+\bibitem[Samantaray(2023)]{samantaray2023}
+Rojalin Samantaray.
+\newblock Adas sensor data handling in the world of autonomous mobility.
+\newblock \emph{SAE Technical Paper Series}, 2023.
+\newblock \doi{10.4271/2023-01-0993}.
+
+\bibitem[Sayood(2018)]{sayood2018}
+Khalid Sayood.
+\newblock \emph{Introduction to Data Compression, Fifth Edition}.
+\newblock Morgan Kaufmann Publishers Inc., 5th edition, 2018.
+\newblock ISBN 978-0-12-809474-7.
+
+\bibitem[Shannon(1948)]{shannon1948}
+C.~E. Shannon.
+\newblock A mathematical theory of communication.
+\newblock \emph{Bell System Technical Journal}, 27\penalty0 (3):\penalty0
+  379--423, 1948.
+\newblock \doi{https://doi.org/10.1002/j.1538-7305.1948.tb01338.x}.
+\newblock URL
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1948.tb01338.x}.
+
+\bibitem[Sun et~al.(2025)Sun, Karras, and Zhang]{sun2025}
+Guoyou Sun, Panagiotis Karras, and Qi~Zhang.
+\newblock Highly efficient direct analytics on semantic-aware time series data
+  compression, 2025.
+\newblock URL \url{https://arxiv.org/abs/2503.13246}.
+
+\bibitem[Yang et~al.(2022)Yang, Mandt, and Theis]{yang2022}
+Yibo Yang, S.~Mandt, and Lucas Theis.
+\newblock An introduction to neural data compression.
+\newblock \emph{Found. Trends Comput. Graph. Vis.}, 15:\penalty0 113--200,
+  2022.
+\newblock \doi{10.1561/0600000107}.
+
+\bibitem[Zhang et~al.(2023)Zhang, Zhang, Pi, Cao, Wang, and
+  Liao]{zhang2023adapint}
+Penghui Zhang, Hua Zhang, Yibo Pi, Zijian Cao, Jingyu Wang, and Jianxin Liao.
+\newblock Adapint: A flexible and adaptive in-band network telemetry system
+  based on deep reinforcement learning.
+\newblock \emph{IEEE Transactions on Network and Service Management},
+  21:\penalty0 5505--5520, 2023.
+\newblock \doi{10.1109/tnsm.2024.3427403}.
+
+\bibitem[Zheng and Zhang(2023)]{zheng2023}
+Zhong Zheng and Zijun Zhang.
+\newblock A temporal convolutional recurrent autoencoder based framework for
+  compressing time series data.
+\newblock \emph{Applied Soft Computing}, 147:\penalty0 110797, 2023.
+\newblock ISSN 1568-4946.
+\newblock \doi{https://doi.org/10.1016/j.asoc.2023.110797}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S1568494623008153}.
+
+\end{thebibliography}
