@@ -3,63 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: report.aux
 The style file: plainnat.bst
 Database file #1: includes/references.bib
-Warning--I didn't find a database entry for "navet2017"
-Warning--I didn't find a database entry for "fairley2019"
-Warning--I didn't find a database entry for "bello2019"
-Warning--I didn't find a database entry for "nunes2023"
-Warning--I didn't find a database entry for "jimenez2020"
-Warning--I didn't find a database entry for "azar2022"
-Warning--I didn't find a database entry for "shannon1948"
-Warning--I didn't find a database entry for "sayood2018"
-Warning--I didn't find a database entry for "ma2019"
-Warning--I didn't find a database entry for "johnsson2025thesis"
-Warning--I didn't find a database entry for "cuza2024"
-Warning--I didn't find a database entry for "zhang2023adapint"
-Warning--I didn't find a database entry for "yang2022"
-Warning--I didn't find a database entry for "löhdefink2019"
-Warning--I didn't find a database entry for "zheng2023"
-Warning--I didn't find a database entry for "liu2024deepdictdeeplearningbased"
-Warning--I didn't find a database entry for "azar2022robust"
-Warning--I didn't find a database entry for "sun2025"
-You've used 1 entry,
+You've used 23 entries,
             2773 wiz_defined-function locations,
-            619 strings with 5350 characters,
-and the built_in function-call counts, 621 in all, are:
-= -- 54
-> -- 39
-< -- 0
-+ -- 13
-- -- 12
-* -- 60
-:= -- 101
-add.period$ -- 4
-call.type$ -- 1
-change.case$ -- 7
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 21
-empty$ -- 44
-format.name$ -- 13
-if$ -- 121
+            746 strings with 10219 characters,
+and the built_in function-call counts, 11707 in all, are:
+= -- 1041
+> -- 810
+< -- 8
++ -- 272
+- -- 249
+* -- 1027
+:= -- 1873
+add.period$ -- 98
+call.type$ -- 23
+change.case$ -- 151
+chr.to.int$ -- 23
+cite$ -- 46
+duplicate$ -- 468
+empty$ -- 830
+format.name$ -- 276
+if$ -- 2416
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 14
-num.names$ -- 4
-pop$ -- 11
+missing$ -- 20
+newline$ -- 151
+num.names$ -- 92
+pop$ -- 269
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 129
 quote$ -- 0
-skip$ -- 17
+skip$ -- 383
 stack$ -- 0
-substring$ -- 33
-swap$ -- 1
-text.length$ -- 0
+substring$ -- 318
+swap$ -- 45
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 11
+type$ -- 243
 warning$ -- 0
-while$ -- 5
+while$ -- 84
 width$ -- 0
-write$ -- 22
-(There were 18 warnings)
+write$ -- 356
