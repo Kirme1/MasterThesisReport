@@ -1,4 +1,4 @@
-\begin{thebibliography}{20}
+\begin{thebibliography}{22}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -28,6 +28,25 @@ L.~L. Bello, R.~Mariani, S.~Mubeen, and S.~Saponara.
 \newblock \emph{IEEE Transactions on Industrial Informatics}, 15:\penalty0
   1038--1051, 2019.
 \newblock \doi{10.1109/tii.2018.2879544}.
+
+\bibitem[Bertoncello et~al.(2021)Bertoncello, Martens, Möller, and
+  Schneiderbauer]{bertoncello2021unlocking}
+Michele Bertoncello, Christopher Martens, Timo Möller, and Tobias
+  Schneiderbauer.
+\newblock Unlocking the full life-cycle value from connected-car data.
+\newblock Technical report, McKinsey \& Company, McKinsey Center for Future
+  Mobility, Feb 2021.
+\newblock URL
+  \url{https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/unlocking-the-full-life-cycle-value-from-connected-car-data}.
+\newblock White paper.
+
+\bibitem[Chen et~al.(2025)Chen, Jia, and Zhou]{app152011095}
+Fanghua Chen, Hong Jia, and Wei Zhou.
+\newblock Vehicle maintenance demand prediction: A survey.
+\newblock \emph{Applied Sciences}, 15\penalty0 (20), 2025.
+\newblock ISSN 2076-3417.
+\newblock \doi{10.3390/app152011095}.
+\newblock URL \url{https://www.mdpi.com/2076-3417/15/20/11095}.
 
 \bibitem[Fairley(2019)]{fairley2019}
 Richard~E. Fairley.
@@ -112,26 +131,23 @@ Rojalin Samantaray.
 \newblock \emph{SAE Technical Paper Series}, 2023.
 \newblock \doi{10.4271/2023-01-0993}.
 
-\bibitem[Sayood(2018)]{sayood2018}
-Khalid Sayood.
-\newblock \emph{Introduction to Data Compression, Fifth Edition}.
-\newblock Morgan Kaufmann Publishers Inc., 5th edition, 2018.
-\newblock ISBN 978-0-12-809474-7.
-
-\bibitem[Shannon(1948)]{shannon1948}
-C.~E. Shannon.
-\newblock A mathematical theory of communication.
-\newblock \emph{Bell System Technical Journal}, 27\penalty0 (3):\penalty0
-  379--423, 1948.
-\newblock \doi{https://doi.org/10.1002/j.1538-7305.1948.tb01338.x}.
-\newblock URL
-  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1948.tb01338.x}.
-
 \bibitem[Sun et~al.(2025)Sun, Karras, and Zhang]{sun2025}
 Guoyou Sun, Panagiotis Karras, and Qi~Zhang.
 \newblock Highly efficient direct analytics on semantic-aware time series data
   compression, 2025.
 \newblock URL \url{https://arxiv.org/abs/2503.13246}.
+
+\bibitem[Theissler et~al.(2021)Theissler, Pérez-Velázquez, Kettelgerdes, and
+  Elger]{theissler2021}
+Andreas Theissler, Judith Pérez-Velázquez, Marcel Kettelgerdes, and Gordon
+  Elger.
+\newblock Predictive maintenance enabled by machine learning: Use cases and
+  challenges in the automotive industry.
+\newblock \emph{Reliability Engineering \& System Safety}, 215, 2021.
+\newblock ISSN 0951-8320.
+\newblock \doi{https://doi.org/10.1016/j.ress.2021.107864}.
+\newblock URL
+  \url{https://www.sciencedirect.com/science/article/pii/S0951832021003835}.
 
 \bibitem[Yang et~al.(2022)Yang, Mandt, and Theis]{yang2022}
 Yibo Yang, S.~Mandt, and Lucas Theis.
@@ -158,5 +174,12 @@ Zhong Zheng and Zijun Zhang.
 \newblock \doi{https://doi.org/10.1016/j.asoc.2023.110797}.
 \newblock URL
   \url{https://www.sciencedirect.com/science/article/pii/S1568494623008153}.
+
+\bibitem[Özdemir et~al.(2024)Özdemir, İşyapar, Karagöz, Schmidt, Demir,
+  and Karagöz]{oezdemir2024}
+Övgü Özdemir, M.~Tuğberk İşyapar, Pınar Karagöz, Klaus~Werner Schmidt,
+  Demet Demir, and N.~Alpay Karagöz.
+\newblock A survey of anomaly detection in in-vehicle networks, 2024.
+\newblock URL \url{https://arxiv.org/abs/2409.07505}.
 
 \end{thebibliography}
