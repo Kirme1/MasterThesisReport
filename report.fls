@@ -103,6 +103,10 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./report.aux
@@ -150,11 +154,9 @@ INPUT ./includes/7-timeline.tex
 INPUT ./includes/7-timeline.tex
 INPUT ./includes/7-timeline.tex
 INPUT ./includes/7-timeline.tex
-INPUT ./report.bbl
-INPUT ./report.bbl
-INPUT report.bbl
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -164,9 +166,13 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT ./report.bbl
+INPUT ./report.bbl
+INPUT report.bbl
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT report.aux
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
