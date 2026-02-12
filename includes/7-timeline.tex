@@ -1,41 +1,68 @@
 \section{Timeline}\label{sec:timeline}
 
-We want to roughly divide the project into four stages, each with specific goals and deadlines. First, we will set up a working environment, and put time into understanding the problem and plan for the project. This would be \textbf{Stage 1: Setup and Preparation}. Within this stage we have the following sub-goals: 
-\begin{itemize}
-    \item Planning the project with appropriate subtasks and a timeline. Then writing the project plan.
-    \item Creating a working environment. This include setting up necessary hardware (at Volvo), git repositories, and coding environments. 
-    \item Defining and Training a downstream ML model on uncompressed data that will serve as a benchmark for evaluating the performance of different compression methods. Right now, we aim for one regression and one classification task based on automotive telemetry data. 
-    \item Implementing a baseline model based on an established neural compression frameworks such as \citep{zheng2023}. The planned architecture is discussed in section~\ref{sec:methodology}.
+We want to roughly divide the project into four stages, each with specific goals and deadlines:
+
+\begin{table}[H]
+\centering
+\begin{tabular}{p{2.5cm} p{2.5cm} p{5cm} p{6cm}}
+\hline
+\textbf{Stage} & \textbf{Time} & \textbf{Description} & \textbf{Deliverables and Milestones}\\
+\hline
+
+Stage 1: Setup and Preparation
+& Jan 16, 2026 - Feb 27, 2026
+& First, we will set up a working environment, and put time into understanding the problem and plan for the project. We will also implement downstream models as well as a baseline compression framework to have a starting point for comparison.
+&
+\begin{itemize}[leftmargin=*, nosep]
+    \item Project plan document (13.02.)
+    \item Two regression downstream models trained on Volvo data and public data (20.02.)
+    \item Two classification downstream models trained on Volvo data and public data (27.02.)
+    \item Baseline compression framework implementation (27.02.)
 \end{itemize}
+\\
+\hline
 
-We envision, that this stage will take roughly five weeks and set a preliminary deadline for the 20th of February.
-
-The second stage, \textbf{Stage 2: Development}, will focus on developing the core components of the proposed compression approach leveraging tokenization. This includes:
-
-\begin{itemize}
-    \item Develop a compression framework that leverages tokenization. This includes implementing an encoder, a quantization method using a codebook, and a decoder as discussed in section~\ref{sec:methodology}.
-    \item Conducting some first initial experiments to validate the implementation. 
-    \item Writing the halftime report. 
-    \item Start writing on the final thesis report. At this stage we aim to have the theory part of the report done.
+Stage 2: Development
+& Feb 28, 2026 - Mar 27, 2026
+& Second, we will focus on developing the core components of the proposed compression approach leveraging tokenization. We will also start writing the theory chapters of the thesis and formulize a halftime report. 
+&
+\begin{itemize}[leftmargin=*, nosep]
+    \item Encoder component implementation (13.03.)
+    \item Quantization/ Tokenization module implementation (13.03.)
+    \item Decoder component implementation (13.03.)
+    \item Completed theory chapters of the final thesis (20.03.)
+    \item Halftime report (27.03.)
 \end{itemize}
+\\
+\hline
 
-The second stage should take around five weeks as well, with a deadline for the 27th of March.
-
-After that, we will start \textbf{Stage 3: Experiments}, which will focus on evaluating the performance of the proposed compression method against the baseline model. This stage will include:
-
-\begin{itemize}
-    \item Compressing the data using both the baseline compression method and the proposed tokenization approach.
-    \item Training the downstream model on the compressed data using both compression methods.
-    \item Evaluating the experiments by capturing the defined metrics for both compression methods. 
+Stage 3: Experiments
+& Mar 28, 2026 - Apr 17, 2026
+& Third, we will focus on evaluating the performance of the proposed compression method against the baseline model. 
+&
+\begin{itemize}[leftmargin=*, nosep]
+    \item Six compressed datasets, using two compression methods (08.04.)
+    \item Evaluation results based on compression (08.04.)
+    \item Trained downstream models (17.04.)
+    \item Evaluation results based on downstream task performance (17.04.)
 \end{itemize}
+\\
+\hline
 
-This stage is expected to take three weeks, with a deadline for the 17th of April.
-
-Finally, we will enter \textbf{Stage 4: Finalizing}, which will involve:
-
-\begin{itemize}
-    \item Conducting an ablation study of the proposed tokenization compression framework.
-    \item Writing the methodology, results, discussion, and conclusion part for the final report.
+Stage 4: Finalizing
+& Apr 18, 2026 - May 15, 2026
+& Finally, we will conduct an ablation study to understand the contribution of different components of the proposed method, and finalize the thesis document for a first draft.
+&
+\begin{itemize}[leftmargin=*, nosep]
+    \item Ablation study results (01.05.)
+    \item Expremint, Results, Discussion chapter of the thesis (10.05.)
+    \item Complete draft of the final thesis (15.05.)
 \end{itemize}
+\\
+\hline
 
-This stage is expected to take four weeks. We plan to have a first draft of the final report ready with a deadline for the 15th of May.
+\end{tabular}
+
+\caption{Project Timeline}
+\label{tab:timeline}
+\end{table}
